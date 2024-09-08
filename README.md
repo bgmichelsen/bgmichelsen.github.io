@@ -1,1 +1,1 @@
-## <div align="center"><div align="left">[HOME](./)</div> <div align="right">[ABOUT](/about)</div></div>
+## <div align="center"><div style="display: inline-block; vertical-align: middle;" align="left">[HOME](./)</div> <div style="display: inline-block; vertical-align: middle;" align="right">[ABOUT](/about)</div></div>
