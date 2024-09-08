@@ -1,1 +1,1 @@
-### [HOME](./) [ABOUT](/about)
+### [HOME](./) | [ABOUT](/about) | [BLOG](/blog)
