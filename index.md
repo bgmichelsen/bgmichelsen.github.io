@@ -1,5 +1,6 @@
 ---
 title: "HOME"
+permalink: /home
 ---
 
 ### [HOME](./) | [ABOUT](/about) | [BLOG](/blog)
