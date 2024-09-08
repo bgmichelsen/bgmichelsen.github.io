@@ -4,5 +4,7 @@ title: "ABOUT"
 permalink: /about
 ---
 
-# Hello, there!
+### [HOME](./) | [ABOUT](/about) | [BLOG](/blog)
+
+## Hello, there!
 I'm Brandon Michelsen, welcome! 
