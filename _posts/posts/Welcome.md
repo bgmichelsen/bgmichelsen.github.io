@@ -1,0 +1,14 @@
+---
+title: "Welcome!"
+permalink: /blog/welcome
+---
+
+# Welcome!
+
+Hello! Welcome to my blog. Here I will be documenting my journey through Digital Signal Processing (DSP) and its application in audio and music. \
+I will be going through a combination of desktop development and embedded development throughout this blog, mostly working in C++ and Python. \ 
+On the desktop side of things, I will be using [Visual C++](https://visualstudio.microsoft.com/vs/features/cplusplus/) and the [JUCE](https://juce.com/) audio framework. 
+These two tools will let me build desktop applications and audio plugins for Digital Audio Workstations, such Ableton Live. \
+As for the embedded side of things, I will be mostly working with ARM Cortex-M devices, as that is what I am most familiar with. The [RP2350](https://www.raspberrypi.com/products/rp2350/) 
+by Raspberry Pi is the device I'll be using the most, with their [Pico 2 Dev Board](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) being my main development board. \
+I am excited to start learning, and I hope you'll follow along with me!
