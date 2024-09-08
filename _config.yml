@@ -2,4 +2,5 @@ title: BGM DSP
 description: Homepage for all of my DSP related projects
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+- jekyll-feed
