@@ -1,1 +1,1 @@
-## <div align="center">[HOME](./) [ABOUT](/about)</div>
+### [HOME](./) [ABOUT](/about)
