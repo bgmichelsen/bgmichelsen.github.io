@@ -4,7 +4,6 @@ title: "BLOG"
 permalink: /blog
 ---
 
-### [HOME](./) | [ABOUT](/about) | [BLOG](/blog)
 ## Posts
 Read all my posts below!
 
