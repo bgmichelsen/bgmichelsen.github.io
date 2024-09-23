@@ -9,5 +9,5 @@ Read all my posts below!
 
 
 {% for post in site.categories.posts %}
-  - [{{post.title}}]({{post.url}})
+  - [{{post.title}}]({{post.url}}) | {{post.tags}}
 {% endfor %}
