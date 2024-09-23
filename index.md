@@ -1,10 +1,8 @@
 ---
 title: "HOME"
+layout: default
 permalink: /home
 ---
-
-### [HOME](./) | [ABOUT](/about) | [BLOG](/blog)
-
 
 ## Recent Posts...
 
