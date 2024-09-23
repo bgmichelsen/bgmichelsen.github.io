@@ -1,7 +1,6 @@
 ---
 title: "HOME"
 layout: default
-permalink: /home
 ---
 
 ## Recent Posts...
