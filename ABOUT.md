@@ -4,8 +4,6 @@ title: "ABOUT"
 permalink: /about
 ---
 
-### [HOME](./) | [ABOUT](/about) | [BLOG](/blog)
-
 ## Hello, there!
 I'm Brandon Michelsen, welcome! I've been a passionate embedded systems and software engineer for 7 years, split between university and industry.
 
