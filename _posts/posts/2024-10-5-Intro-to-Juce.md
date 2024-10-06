@@ -26,7 +26,7 @@ So, without further ado, let's get into it...
 To begin with, Juce makes it very easy to start a project. When you download the Juce framework, it includes a tool, 
 the ProJucer. This tool allows you to configure and generate the beginning source code for your project.
 
-![ProJucer image](../_img/projucer.PNG?raw=true)
+![ProJucer image](/img/projucer.PNG?raw=true)
 
 Using the ProJucer, you can select what Juce packages you want (for example, the DSP package), what type of project
 it is (i.e. a standalone application or an audio plugin), and what your build environment is (i.e. Visual Studio).
@@ -38,7 +38,7 @@ For my first project, I decided to make a standalone application using Visual St
 After the project is generated, the main entry point is the "MainComponent" class. This contains all the graphics for
 the application as well as three functions for processing audio. These are as follows...
 
-```C++
+```cpp
 void MainComponent::prepareToPlay(int samplesPerBlock, double sampleRate)
 {
 
