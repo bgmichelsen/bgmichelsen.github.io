@@ -5,14 +5,13 @@ permalink: /about
 ---
 
 ## Hello, there!
-I'm Brandon Michelsen, welcome! I've been a passionate embedded systems and software engineer for 7 years, split between university and industry.
+I'm Brandon Michelsen, welcome! I've been a passionate embedded systems and software engineer for 8 years, split between university and industry.
 
-
-Throughout my career, I've been extremely interested in audio processing and DSP. This blog documents my journey as I learn more about DSP. I'll be documenting what I learn here, as well as my completed projects.
+Throughout my career, I've been extremely interested in all things embedded: firmware development, electronics design, robotics, digital signal processing, mechatronics...you name it! This blog was made to document my projects and thoughts in relation to mechatronics, signal processing, and firmware.
 
 
 ## A little more about me...
-I've been an embedded systems engineer in the industry for 3 years. I have skills with Python, C++, and C, mostly working with ARM Cortex-M devices. I also have a passion for audio and music, and have been learning music my whole life: composing my own music, learning new instruments, etc. Digital Signal Processing combines my passion for engineering and music, and I hope to have fun learning it!
+I've been an embedded systems engineer in the industry for 4 years. I have skills with Python, C++, and C, mostly working with ARM Cortex-M devices. I also have a passion for audio and music, and have been learning music my whole life: composing my own music, learning new instruments, etc. Mechatronics, signal processing, and embedded systems combines my passions for physics and engineering. I hope to have fun learning it!
 
 
 ## Contact me!
