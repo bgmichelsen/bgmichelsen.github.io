@@ -11,7 +11,7 @@ Throughout my career, I've been extremely interested in all things embedded: fir
 
 
 ## A little more about me...
-I've been an embedded systems engineer in the industry for 4 years. I have skills with Python, C++, and C, mostly working with ARM Cortex-M devices. I also have a passion for audio and music, and have been learning music my whole life: composing my own music, learning new instruments, etc. Mechatronics, signal processing, and embedded systems combines my passions for physics and engineering. I hope to have fun learning it!
+I've been an embedded systems engineer in the industry for 4 years. I have skills with Python, C++, and C, mostly working with ARM Cortex-M devices. Mechatronics, signal processing, and embedded systems combines my passions for physics and engineering. I hope to have fun learning it!
 
 
 ## Contact me!
