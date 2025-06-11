@@ -161,7 +161,7 @@ The FFT algorithm is composed of three loops. The outermost loop is
 for each FFT stage. Basically, this loops through each stage that breaks 
 the samples down into 1-point signals. This takes $$log_2(N)$$ samples, 
 where N is the total number of samples. For example, to break a 16-point 
-signal into 16 single point signals, it would take four stages ($$log_2(2^4) = 4). 
+signal into 16 single point signals, it would take four stages ($$log_2(2^4) = 4$$). 
 
 The next loop goes through the DFT calculation for each single point signal at the given 
 stage. This is also where the twiddle factors are calculated, by the *ui* and *ur* 
