@@ -26,21 +26,37 @@ Additionally, research should be conducted before starting the project. Research
 For every project, the following file structure shall be used:
 
 root/
+
     electrical/
+
         bom/
+
         grbr/
+
         pdf/
+
     mechanical/
+
         bom/
+
         stl/
+
         pdf/
+
     software/
+
         app/
+
             inc/
+
             src/
+
         lib/
+
             inc/
+
             src/
+
         test/
 
 NOTE: Depending on the project, some folders may not be necessary. For example, if a project consists of no mechanical components, that folder and its subfolders can be excluded from the project.
@@ -48,8 +64,11 @@ NOTE: Depending on the project, some folders may not be necessary. For example, 
 For software libraries/components, the following structure will be used:
 
 root/
+
     public/
+
     src/
+
     test/
 
 ### Some Notes on the Folders
