@@ -3,6 +3,8 @@ title: "GENERAL SOFTWARE GUIDELINES"
 layout: default
 ---
 
+# General Software Guidelines
+
 These are the general guidelines for software projects. These guidelines apply regardless of language.
 
 ## Project Structure
